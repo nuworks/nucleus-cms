@@ -1,10 +1,6 @@
 {
     "name": "nucleus/nucleus-cms",
     "description": "N/A",
-    /*"require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
-        "nucleus/envelope-sales-inventory": "1.0.*"
-    },*/
     "type": "nucleus-module",
     "version": "1.0.0",
     "license": [
